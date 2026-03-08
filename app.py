@@ -4,7 +4,7 @@ Legal AI Assistant Interface
 """
 
 import streamlit as st
-from nyaysetu import get_nyaysetu
+from lawbot_engine import get_nyaysetu
 from deep_translator import GoogleTranslator
 
 # Speech libraries
